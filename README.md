@@ -1,7 +1,8 @@
 ### Welcome! 
 
-I'm Chris, a **freelance developer** sepcialising in **Graph Databases**, mainly [Neo4j](https://neo4j.com) via **.NET**. I've been doing it for 17 years professionally, but waaay longer if we go back in time to the 'pre-getting-paid-for-it' days.
+I'm  a **freelance developer** sepcialising in **Graph Databases**, mainly [Neo4j](https://neo4j.com) via **.NET**. I've been doing it for 17 years professionally, but waaay longer if we go back in time to the 'pre-getting-paid-for-it' days.
 
+I also manage the [DotNet4Neo4j](https://github.com/dotnet4neo4j) organisation here, so anything .NET/MS/Neo4j feel free to get in touch!
 
 ### Ways to get in touch
 
