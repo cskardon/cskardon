@@ -10,8 +10,11 @@ I also manage the [DotNet4Neo4j](https://github.com/dotnet4neo4j) organisation h
 * **Tournr** [Tournr](https://tournr.com)
 * **Anabranch** [Anabranch](https://anabranch.co.uk)
 
-<a href="https://www.linkedin.com/in/cskardon" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Charlotte Skardon LinkedIn" height="28" width="28" /></a>&nbsp; <a href="https://twitter.com/cskardon" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Charlotte Skardon Twitter" height="28" width="28" /></a>&nbsp; 
+<a href="https://www.linkedin.com/in/cskardon" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Charlotte Skardon LinkedIn" height="28" width="28" /></a>&nbsp; 
 
+**No longer on Twitter - as the intolerance and lack of safety for minorities makes it unviable.**
+
+The standard you walk past is the standard you accept.
 
 
 <!--
