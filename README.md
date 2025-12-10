@@ -8,6 +8,8 @@ I also manage the [DotNet4Neo4j](https://github.com/dotnet4neo4j) organisation h
 
 Currently doing an MSc in Health Data Science so getting into `R` and `Python` at the moment 🤷🏻‍♀️
 
+Aaaand as a side to that - I'm heavily focusing on the Bio-Life Sciences side of things - in particular I'm interested in how data can be used to improve Patient lives and outcomes.
+
 ### Ways to get in touch
 
 * **Blog** [XClave](https://xclave.co.uk)
